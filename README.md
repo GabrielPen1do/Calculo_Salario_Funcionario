@@ -1,2 +1,13 @@
 # Calculo_Salario_Funcionario
-O código em questão implementa um sistema simples para calcular o salário final de funcionários com base em seus cargos e quantidade de horas trabalhadas.
+
+Exercício proposto:
+
+Crie uma classe “Cargo” com os seguintes atributos privados: “código do cargo” e “valor da
+hora trabalhada”.
+Crie uma classe “Funcionario” com os seguintes atributos privados: “cargo” (tipo Cargo), “sexo”
+(char) e “quantidade de horas trabalhadas” (double). Essa classe deve possuir ainda, um método
+para calcular o salário final, ou seja, o salário de acordo com o cargo (valor da hora trabalhada
+multiplicado pelo número de horas trabalhadas).
+No método Main crie três cargos e três funcionários. Calcule e imprima o salário final dos
+funcionários.
+
