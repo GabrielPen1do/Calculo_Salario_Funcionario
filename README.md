@@ -11,3 +11,7 @@ multiplicado pelo número de horas trabalhadas).
 No método Main crie três cargos e três funcionários. Calcule e imprima o salário final dos
 funcionários.
 
+
+# Como acessar 
+Clone este repositório para o ambiente local.
+
